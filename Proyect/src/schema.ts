@@ -8,4 +8,5 @@ export const inscripcionTable = mysqlTable('inscripcion', {
   Fecha: varchar('fecha', { length: 10 }).notNull(),
   Hora: varchar('hora', { length: 8 }).notNull(),
   Valor_cancelado: varchar('valor_cancelado', { length: 20 }).notNull(),
-});
+}); 
+afkpamfpiamopfapofmakofampomaf
